@@ -304,8 +304,8 @@ body {
 
 .filters li a {
 	color: inherit;
-	margin: 3px;
-	padding: 3px 7px;
+	margin: 2px;
+	padding: 3px 5px;
 	text-decoration: none;
 	border: 1px solid transparent;
 	border-radius: 3px;
@@ -323,7 +323,7 @@ body {
 html .clear-completed:active {
 	float: right;
 	position: relative;
-	line-height: 20px;
+	line-height: 19.9px;
 	text-decoration: none;
 	cursor: pointer;
 }

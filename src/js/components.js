@@ -33,7 +33,7 @@ export const crearToDoHtml = ( todo ) => {
 //Eventos
 txtInput.addEventListener('keypress', ( e ) => {
 
-    console.log(txtInput.value);
+    // console.log(txtInput.value);
 
     if( e.keyCode === 13 && txtInput.value.length > 0) {
         
