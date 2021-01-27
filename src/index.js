@@ -15,4 +15,4 @@ export const todoList = new ToDoList();
 // todoList.toDos.forEach( todo => crearToDoHtml( todo )); es lo mismo que lo de abajo
 todoList.toDos.forEach( crearToDoHtml);
 
-console.log( 'todos', todoList.todos );
+// console.log( 'todos', todoList.todos );
